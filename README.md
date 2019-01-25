@@ -13,13 +13,13 @@ licence  : GPL 2 - MIT
 
 Install :
 
-http://monsite/myAdmin/index.php?A&Payment\Moneris
+http://monsite/myAdmin/index.php?A&Payment\Xpay
 
 Activate the module in Payment
 Copy the apps_payment_xpay.json into ClicShopping/Work/Cache/Github (manual installation)
 
 See Marketplace for all informations
-link to marketplace : 
+link to marketplace : https://www.clicshopping.org/forum/files/file/66-apps_payment_xpay/
 
 
 All informations about the ClicShopping
