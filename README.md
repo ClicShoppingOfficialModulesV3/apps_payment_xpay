@@ -22,17 +22,14 @@ See Marketplace for all informations
 link to marketplace : https://www.clicshopping.org/forum/files/file/66-apps_payment_xpay/
 
 
-All informations about the ClicShopping
 
- Community : https://www.clicshopping.org
+ All informations about the ClicShopping
 
- Software : https://github.com/ClicShopping
-
- Official add on : https://github.com/ClicShoppingOfficialModulesV3
-
- Community add on : https://github.com/ClicShoppingV3Community
-
- trademark License info : https://www.clicshopping.org/forum/trademark/ 
+Community : https://www.clicshopping.org
+Software : https://github.com/ClicShopping
+Official add on : https://github.com/ClicShoppingOfficialModulesV3
+Community add on : https://github.com/ClicShoppingV3Community
+trademark License info : https://www.clicshopping.org/forum/trademark/ 
 
 
 
